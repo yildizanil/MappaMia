@@ -1,0 +1,46 @@
+Aargau
+Appenzell Ausserrhoden
+Appenzell Innerrhoden
+Basel-Landschaft
+Basel-Stadt
+Bern
+Fribourg
+Genève
+Glarus
+Jura
+Lucerne
+Neuchâtel
+Nidwalden
+Obwalden
+Sankt Gallen
+Schaffhausen
+Schwyz
+Solothurn
+Thurgau
+Uri
+Vaud
+Zug
+Zürich
+Graubünden
+Ticino
+Valais
+Abruzzo
+Apulia
+Basilicata
+Calabria
+Campania
+Emilia-Romagna
+Friuli-Venezia Giulia
+Lazio
+Liguria
+Marche
+Molise
+Sardegna
+Sicily
+Toscana
+Umbria
+Veneto
+Lombardia
+Piemonte
+Trentino-Alto Adige
+Valle d'Aosta
